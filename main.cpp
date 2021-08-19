@@ -1,4 +1,10 @@
-
+/*
+* Estrucrutra de Datos.
+* Autor: Estudiante Torres LLivipuma Romulo Jesus <rtorresll@est.ups.edu.ec>
+* Universidad Politecnica Salesiana
+* Fecha: 11-06-2021
+* LISTAS CIRCULARES SIMPLES 
+*/
 #include <iostream>
 using namespace std;
 
